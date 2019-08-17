@@ -4,7 +4,8 @@ layout: page
 Email: haoj8711@gmail.com  
 Tel:850-567-7926  
 
-I’m Jie Hao, a 3rd-year Ph.D. student in Statistics at [Florida State University](https://www.fsu.edu){:target="_blank”}, advised by Jinfeng Zhang. My research broadly lies around Natural Language Processing and  my current focus is on Machine Translation.  
+### About
+I’m Jie Hao, a 3rd-year Ph.D. Candidate in Statistics at [Florida State University](https://www.fsu.edu){:target="_blank”}, advised by Jinfeng Zhang. My research broadly lies around Natural Language Processing and Statistical Machine Learning. My current research focuses include Machine Translation and Biomedical Text mining.
 
 ### Education
 
@@ -21,19 +22,23 @@ Research Intern, Hosts: Xing Wang, Zhaopeng Tu, Shuming Shi, *May 2018 - May 201
 
 ### Publications
 
-Multi-Granularity Self-Attention for Neural Machine Translation. EMNLP 2019.  
-**Jie Hao**, Xing Wang, Shuming Shi, Jinfeng Zhang, and Zhaopeng Tu. 
+Multi-Granularity Self-Attention for Neural Machine Translation.   
+**Jie Hao**, Xing Wang, Shuming Shi, Jinfeng Zhang, and Zhaopeng Tu.  
+In EMNLP, 2019. 
 
-Towards Better Modeling Hierarchical Structure for Self-Attention with Ordered Neurons. EMNLP 2019.  
-**Jie Hao**, Xing Wang, Shuming Shi, Jinfeng Zhang, and Zhaopeng Tu.
+Towards Better Modeling Hierarchical Structure for Self-Attention with Ordered Neurons.  
+**Jie Hao**, Xing Wang, Shuming Shi, Jinfeng Zhang, and Zhaopeng Tu.  
+In EMNLP, 2019.
 
-Modeling Recurrence for Transformer. NAACL 2019. (Oral)  
-**Jie Hao**, Xing Wang, Baosong Yang, Longyue Wang, Jinfeng Zhang, and Zhaopeng Tu.
+Modeling Recurrence for Transformer.    
+**Jie Hao**, Xing Wang, Baosong Yang, Longyue Wang, Jinfeng Zhang, and Zhaopeng Tu.  
+In NAACL,  2019. (Oral)
 
-Mining protein interactions affected by mutations using a NLP based machine learning approach. Proceedings
-of BioCreative VI workshop, 2017.  
-Jinchan Qu, Albert Steppi, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, Zhe He and Jinfeng Zhang. 
+Mining protein interactions affected by mutations using a NLP based machine learning approach.    
+Jinchan Qu, Albert Steppi, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, Zhe He and Jinfeng Zhang.  
+In Proceedings of BioCreative VI workshop, 2017.
 
 Triage of Documents containing protein interactions affected by mutations using a NLP based machine learning
-approach. Under review by DATABASE.  
-Albert Steppi, Jinchan Qu, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, Zhe He and Jinfeng Zhang. 
+approach.    
+Albert Steppi, Jinchan Qu, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, Zhe He and Jinfeng Zhang.  
+Under review by DATABASE.
