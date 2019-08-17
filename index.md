@@ -6,7 +6,7 @@ I’m Jie Hao, a 3rd-year Ph.D. student in Computer Science at [Florida State Un
 ### Experience
 
 **Tecent AI Lab**  
-Research Intern, *May 2018 - Aug 2019*
+Research Intern, *May 2018 - May 2019*
 
 
 ### Education
