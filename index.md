@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-### About
 
 I’m Jie Hao, a 3rd-year Ph.D. student in Statistics at [Florida State University](https://www.fsu.edu){:target="_blank”}, advised by Jinfeng Zhang. My research broadly lies around Natural Language Processing and  my current focus is on Machine Translation.
 
@@ -17,3 +16,7 @@ B.S. in Mathematics, *Sep 2012-June 2016*
 
 **Tecent AI Lab**  
 Research Intern, Hosts: Xing Wang, Zhaopeng Tu, Shuming Shi, *May 2018 - May 2019*
+
+### Publications
+
+*Jie Hao*, Xing Wang, Baosong Yang, Longyue Wang, Jinfeng Zhang, and Zhaopeng Tu. Modeling Recurrence for Transformer. NAACL 2019
