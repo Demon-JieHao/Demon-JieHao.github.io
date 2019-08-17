@@ -1,10 +1,10 @@
 ---
 layout: page
 ---
-
-I’m Jie Hao, a 3rd-year Ph.D. student in Statistics at [Florida State University](https://www.fsu.edu){:target="_blank”}, advised by Jinfeng Zhang. My research broadly lies around Natural Language Processing and  my current focus is on Machine Translation.  
 Email: haoj8711@gmail.com  
 Tel:8505677926  
+
+I’m Jie Hao, a 3rd-year Ph.D. student in Statistics at [Florida State University](https://www.fsu.edu){:target="_blank”}, advised by Jinfeng Zhang. My research broadly lies around Natural Language Processing and  my current focus is on Machine Translation.  
 
 ### Education
 
