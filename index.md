@@ -8,10 +8,10 @@ I’m Jie Hao, a 3rd-year Ph.D. student in Statistics at [Florida State Universi
 ### Education
 
 **Florida State University**, Tallahassee, FL  
-Ph.D. in Statistics, *2016-2020 (Expected)*
+Ph.D. in Statistics, *Aug 2016-2020 (Expected)*
 
 **Fudan University**, Shanghai, China  
-B.S. in Mathematics, *2012-2016*
+B.S. in Mathematics, *Sep 2012-June 2016*
 
 ### Experience
 
