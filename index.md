@@ -23,6 +23,7 @@ Multi-Granularity Self-Attention for Neural Machine Translation. EMNLP 2019.
 **Jie Hao**, Xing Wang, Shuming Shi, Jinfeng Zhang, and Zhaopeng Tu. 
 
 Towards Better Modeling Hierarchical Structure for Self-Attention with Ordered Neurons. EMNLP 2019.
+
 **Jie Hao**, Xing Wang, Shuming Shi, Jinfeng Zhang, and Zhaopeng Tu.
 
 Modeling Recurrence for Transformer. NAACL 2019. (Oral)
