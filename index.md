@@ -2,7 +2,9 @@
 layout: page
 ---
 
-I’m Jie Hao, a 3rd-year Ph.D. student in Statistics at [Florida State University](https://www.fsu.edu){:target="_blank”}, advised by Jinfeng Zhang. My research broadly lies around Natural Language Processing and  my current focus is on Machine Translation.
+I’m Jie Hao, a 3rd-year Ph.D. student in Statistics at [Florida State University](https://www.fsu.edu){:target="_blank”}, advised by Jinfeng Zhang. My research broadly lies around Natural Language Processing and  my current focus is on Machine Translation.  
+Email: haoj8711@gmail.com  
+Tel:8505677926  
 
 ### Education
 
@@ -30,8 +32,8 @@ Modeling Recurrence for Transformer. NAACL 2019. (Oral)
 
 Mining protein interactions affected by mutations using a NLP based machine learning approach. Proceedings
 of BioCreative VI workshop, 2017.  
-Jinchan Qu, Albert Steppi, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, Zhe He & Jinfeng Zhang. 
+Jinchan Qu, Albert Steppi, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, Zhe He and Jinfeng Zhang. 
 
 Triage of Documents containing protein interactions affected by mutations using a NLP based machine learning
 approach. Under review by DATABASE.  
-Albert Steppi, Jinchan Qu, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, Zhe He & Jinfeng Zhang. 
+Albert Steppi, Jinchan Qu, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, Zhe He and Jinfeng Zhang. 
