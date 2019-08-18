@@ -18,7 +18,7 @@ B.S. in Mathematics, *Sep 2012-June 2016*
 ### Experience
 
 **Tecent AI Lab**  
-Research Intern, Hosts: Xing Wang, Zhaopeng Tu, Shuming Shi, *May 2018 - May 2019*
+Research Intern, *May 2018 - May 2019*
 
 ### Publications
 
