@@ -17,7 +17,7 @@ B.S. in Mathematics, *Sep 2012-June 2016*
 
 ### Experience
 
-**Tecent AI Lab**  
+**Tencent AI Lab**  
 Research Intern, *May 2018 - May 2019*
 
 ### Publications
