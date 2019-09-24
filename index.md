@@ -26,15 +26,15 @@ Research Intern, *May 2018 - May 2019*
 **Jie Hao**, Xing Wang, Shuming Shi, Jinfeng Zhang, and Zhaopeng Tu.  
 In EMNLP, 2019. 
 
-Towards Better Modeling Hierarchical Structure for Self-Attention with Ordered Neurons.  
+[Towards Better Modeling Hierarchical Structure for Self-Attention with Ordered Neurons.](https://arxiv.org/pdf/1909.01562.pdf){:target="_blank”}      
 **Jie Hao**, Xing Wang, Shuming Shi, Jinfeng Zhang, and Zhaopeng Tu.  
 In EMNLP, 2019.
 
-Modeling Recurrence for Transformer.    
+[Modeling Recurrence for Transformer.](https://arxiv.org/pdf/1904.03092.pdf){:target="_blank”}          
 **Jie Hao**, Xing Wang, Baosong Yang, Longyue Wang, Jinfeng Zhang, and Zhaopeng Tu.  
 In NAACL,  2019. (Oral)
 
-Mining protein interactions affected by mutations using a NLP based machine learning approach.    
+[Mining protein interactions affected by mutations using a NLP based machine learning approach.](https://pdfs.semanticscholar.org/0518/dd5b4725f4f997f29aca862d7c5f9ff0e929.pdf?_ga=2.199741606.903625184.1569340439-1421537793.1569340439){:target="_blank”}      
 Jinchan Qu, Albert Steppi, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, Zhe He and Jinfeng Zhang.  
 In Proceedings of BioCreative VI workshop, 2017.
 
