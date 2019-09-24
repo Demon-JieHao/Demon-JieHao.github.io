@@ -22,7 +22,7 @@ Research Intern, *May 2018 - May 2019*
 
 ### Publications
 
-Multi-Granularity Self-Attention for Neural Machine Translation. [[pdf]](https://arxiv.org/pdf/1909.02222.pdf){:target="_blank”}    
+[Multi-Granularity Self-Attention for Neural Machine Translation.](https://arxiv.org/pdf/1909.02222.pdf){:target="_blank”}    
 **Jie Hao**, Xing Wang, Shuming Shi, Jinfeng Zhang, and Zhaopeng Tu.  
 In EMNLP, 2019. 
 
