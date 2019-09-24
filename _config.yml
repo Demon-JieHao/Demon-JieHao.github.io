@@ -2,7 +2,7 @@ title: Jie Hao (郝杰)
 author: Jie Hao
 #email: haoj8711@gmail.com
 #description: Last updated Aug 17, 2019
-description: Sep 23, 2019
+
 
 # social links
 # twitter_username: jekyllrb
@@ -29,7 +29,7 @@ description: Sep 23, 2019
 #   instance: example.com
 
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
