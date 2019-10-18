@@ -11,7 +11,6 @@ I’m Jie Hao, a 4th-year Ph.D. Candidate in Statistics at [Florida State Univer
 
 **Florida State University**, Tallahassee, FL  
 Ph.D. in Statistics, *Aug 2016-present*
-#Ph.D. in Statistics, *Aug 2016-2020 (Expected)*
 
 **Fudan University**, Shanghai, China  
 B.S. in Mathematics, *Sep 2012-June 2016*
