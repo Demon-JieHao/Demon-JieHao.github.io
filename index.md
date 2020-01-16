@@ -43,7 +43,4 @@ approach.
 Albert Steppi, Jinchan Qu, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, Zhe He and Jinfeng Zhang.  
 Under review by DATABASE.
 
-Distant Supervision for Extracting Protein-Protein Interaction via Deep Learning.  
-**Jie Hao**, Xin Sui & Jinfeng Zhang.  
-In preparation.
 
