@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-Email: haoj8711@gmail.com                       <img src="../images/jie.png" width="36">
+Email: haoj8711@gmail.com                     
 Tel: 850-800-6566  
 
 ### About
