@@ -1,9 +1,9 @@
 ---
 layout: page
 ---
-Email: haoj8711@gmail.com  
+Email: haoj8711@gmail.com                       <img src="../images/jie.png" width="36">
 Tel: 850-800-6566  
- <img src="../images/jie.png" width="36">
+
 ### About
 I’m Jie Hao, a 4th-year Ph.D. Candidate in Statistics at [Florida State University](https://www.fsu.edu){:target="_blank”} (FSU), advised by Jinfeng Zhang. My research broadly lies around Natural Language Processing and Statistical Machine Learning. My current research focuses on Machine Translation and Biomedical Text Mining.
 
