@@ -46,4 +46,9 @@ approach.
 Albert Steppi, Jinchan Qu, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, Zhe He and Jinfeng Zhang.  
 Under review by DATABASE.
 
+### Professional Service
+
+Program Committee: AACL 2020, COLING 2020, CCL 2019&2020
+Reviewer/External Reviewer: EMNLP 2018&2019, AAAI 2019&2020, NAACL 2019, ACL 2019, IJCAI 2019 
+
 
