@@ -9,7 +9,7 @@ I’m Jie Hao, a 4th-year Ph.D. Candidate in Statistics at [Florida State Univer
 
 ### Education
 
-**Florida State University**, Tallahassee, FL  
+**Florida State University**, Tallahassee, FL, USA  
 Ph.D. in Statistics, *Aug 2016-present*
 
 **Fudan University**, Shanghai, China  
