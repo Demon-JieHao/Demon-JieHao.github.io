@@ -10,18 +10,18 @@ I’m Jie Hao, a 4th-year Ph.D. Candidate in Statistics at [Florida State Univer
 ### Education
 
 **Florida State University**, Tallahassee, FL, USA  
-Ph.D. in Statistics, *Aug 2016-present*
+Ph.D. in Statistics, *Aug. 2016-present*
 
 **Fudan University**, Shanghai, China  
-B.S. in Mathematics, *Sep 2012-June 2016*
+B.S. in Mathematics, *Sep. 2012-June. 2016*
 
 ### Experience
 
 **Amazon, Alexa AI**  
-Applied Scientist Intern, *Jan 2020 - present*
+Applied Scientist Intern, *Jan. 2020 - Apr. 2020 *
 
 **Tencent AI Lab**  
-Research Intern, *May 2018 - May 2019*
+Research Intern, *May. 2018 - May. 2019*
 
 ### Publications
 
