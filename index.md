@@ -18,7 +18,7 @@ B.S. in Mathematics, *Sep. 2012-June. 2016*
 ### Experience
 
 **Amazon, Alexa AI**  
-Applied Scientist Intern, *Jan. 2020 - Apr. 2020 *
+Applied Scientist Intern, *Jan. 2020 - Apr. 2020*
 
 **Tencent AI Lab**  
 Research Intern, *May. 2018 - May. 2019*
