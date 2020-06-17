@@ -18,7 +18,7 @@ B.S. in Mathematics, *Sep. 2012-June. 2016*
 ### Experience
 
 **Amazon, Alexa AI**  
-Applied Scientist Intern, *Jan. 2020 - May. 2020*
+Applied Scientist Intern, *Jan. 2020 - present*
 
 **Tencent AI Lab**  
 Research Intern, *May. 2018 - May. 2019*
@@ -44,7 +44,11 @@ In Proceedings of BioCreative VI workshop, 2017.
 Triage of Documents containing protein interactions affected by mutations using a NLP based machine learning
 approach.    
 Albert Steppi, Jinchan Qu, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, Zhe He and Jinfeng Zhang.  
-Under review.
+Under Review.
+
+Understanding the Role of Syntax for Sentence Generation in Neural Machine Translation.
+**Jie Hao**, Xing wang, Jinfeng zhang, and Zhaopeng Tu.
+Under Review.
 
 ### Professional Service
 
