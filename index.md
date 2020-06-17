@@ -42,11 +42,11 @@ Jinchan Qu, Albert Steppi, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, 
 In Proceedings of BioCreative VI workshop, 2017.
 
 Triage of Documents containing protein interactions affected by mutations using a NLP based machine learning
-approach.    
+approach.{:target="_blank”} 
 Albert Steppi, Jinchan Qu, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, Zhe He and Jinfeng Zhang.  
 Under Review.
 
-Understanding the Role of Syntax for Sentence Generation in Neural Machine Translation.
+Understanding the Role of Syntax for Sentence Generation in Neural Machine Translation.{:target="_blank”} 
 **Jie Hao**, Xing wang, Jinfeng zhang, and Zhaopeng Tu.
 Under Review.
 
