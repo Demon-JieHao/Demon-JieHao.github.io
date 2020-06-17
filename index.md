@@ -47,7 +47,7 @@ Albert Steppi, Jinchan Qu, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, 
 Under Review.
 
 Understanding the Role of Syntax for Sentence Generation in Neural Machine Translation.   
-**Jie Hao**, Xing wang, Jinfeng zhang, and Zhaopeng Tu.   
+**Jie Hao**, Xing Wang, Jinfeng Zhang, and Zhaopeng Tu.   
 Under Review.
 
 ### Professional Service
