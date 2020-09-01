@@ -49,7 +49,7 @@ Under Review.
 
 ### Professional Service
 
-Program Committee Member: EMNLP 2020, AACL 2020, COLING 2020, NLPCC 2020, CCL 2019&2020, EACL 2021     
+Program Committee Member: EMNLP 2020, AACL 2020, COLING 2020, NLPCC 2020, CCL 2019&2020, EACL 2021, AAAI 2021     
 Secondary Reviewer: EMNLP 2018&2019, AAAI 2019&2020, NAACL 2019, ACL 2019&2020, IJCAI 2019 
 
 
