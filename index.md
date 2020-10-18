@@ -44,7 +44,7 @@ In Proceedings of BioCreative VI workshop, 2017.
 Triage of Documents containing protein interactions affected by mutations using a NLP based machine learning
 approach.   
 Albert Steppi, Jinchan Qu, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, Zhe He and Jinfeng Zhang.  
-Under Review.
+BMC Genomics 2020.
 
 
 ### Professional Service
