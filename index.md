@@ -42,7 +42,7 @@ Jinchan Qu, Albert Steppi, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, 
 In Proceedings of BioCreative VI workshop, 2017.
 
 Triage of Documents containing protein interactions affected by mutations using a NLP based machine learning
-approach. [[pdf]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07185-7){:target="_blank”} 
+approach. [[pdf]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07185-7){:target="_blank”}           
 Albert Steppi, Jinchan Qu, Dongrui Zhong, **Jie Hao**, Jian Wang, Pei-Yau Lung, Tingting Zhao, Zhe He and Jinfeng Zhang.  
 BMC Genomics, 2020.
 
