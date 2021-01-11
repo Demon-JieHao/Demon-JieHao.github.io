@@ -5,7 +5,7 @@ Email: haoj8711@gmail.com
 Tel: 850-800-6566  
 
 ### About
-I’m Jie Hao, I am currently working as an applied scientist at Amazon, Alexa AI. I obtained the Ph.D. degree in Statistics at [Florida State University](https://www.fsu.edu){:target="_blank”} (FSU), advised by Prof. Jinfeng Zhang. My research broadly lies around Natural Language Processing and Statistical Machine Learning. My current research focuses on Machine Translation and Text Generation.
+I’m Jie Hao, I am currently working as an applied scientist at Amazon, Alexa AI. I obtained the Ph.D. degree in Statistics at [Florida State University](https://www.fsu.edu){:target="_blank”} (FSU), advised by Prof. Jinfeng Zhang. My research broadly lies around Natural Language Processing and Statistical Machine Learning. My current research focuses on Dialogue System and Machine Translation.
 
 ### Education
 
