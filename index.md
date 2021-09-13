@@ -30,7 +30,7 @@ Robust Dialogue Utterance Rewriting as Sequence Tagging. [[paper]](https://arxiv
 In EMNLP, 2021.
 
 Contextual Rephrase Detection for Reducing Friction in Dialogue Systems. [[paper]](https://assets.amazon.science/ab/b8/93fbdc014a5fbef79208f13904d6/contextual-rephrase-detection-for-reducing-friction-in-dialogue-systems.pdf){:target="_blank”}         
-Zhuoyi Wang, Saurabh Gupta, **Jie Hao**, Xing Fan, Dingcheng Li, Alexander Hanbo Li, Edward Guo.
+Zhuoyi Wang, Saurabh Gupta, **Jie Hao**, Xing Fan, Dingcheng Li, Alexander Hanbo Li, Edward Guo.         
 In EMNLP, 2021.
 
 Triage of Documents containing protein interactions affected by mutations using a NLP based machine learning
