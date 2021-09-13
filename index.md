@@ -29,7 +29,7 @@ Robust Dialogue Utterance Rewriting as Sequence Tagging. [[paper]](https://arxiv
 **Jie Hao**, Linfeng Song, Liwei Wang, Kun Xu, Zhaopeng Tu, Dong Yu.         
 In EMNLP, 2021.
 
-Contextual Rephrase Detection for Reducing Friction in Dialogue Systems. [[paper]](https://assets.amazon.science/ab/b8/93fbdc014a5fbef79208f13904d6/contextual-rephrase-detection-for-reducing-friction-in-dialogue-systems.pdf){:target="_blank”} 
+Contextual Rephrase Detection for Reducing Friction in Dialogue Systems. [[paper]](https://assets.amazon.science/ab/b8/93fbdc014a5fbef79208f13904d6/contextual-rephrase-detection-for-reducing-friction-in-dialogue-systems.pdf){:target="_blank”}         
 Zhuoyi Wang, Saurabh Gupta, **Jie Hao**, Xing Fan, Dingcheng Li, Alexander Hanbo Li, Edward Guo.
 In EMNLP, 2021.
 
