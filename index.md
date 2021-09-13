@@ -25,7 +25,7 @@ Research Intern, *May. 2018 - Sep. 2019*
 
 ### Publications
 
-Robust Dialogue Utterance Rewriting as Sequence Tagging. [[paper]](https://arxiv.org/pdf/2012.14535.pdf){:target="_blank”}[[code]](https://github.com/ freesunshine0316/RaST-plus){:target="_blank”}         
+Robust Dialogue Utterance Rewriting as Sequence Tagging. [[paper]](https://arxiv.org/pdf/2012.14535.pdf){:target="_blank”}[[code]](https://github.com/freesunshine0316/RaST-plus){:target="_blank”}         
 **Jie Hao**, Linfeng Song, Liwei Wang, Kun Xu, Zhaopeng Tu, Dong Yu.         
 In EMNLP, 2021.
 
