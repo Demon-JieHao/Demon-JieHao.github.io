@@ -42,7 +42,7 @@ Multi-Granularity Self-Attention for Neural Machine Translation. [[paper]](https
 **Jie Hao**, Xing Wang, Shuming Shi, Jinfeng Zhang, and Zhaopeng Tu.  
 In EMNLP, 2019. 
 
-Towards Better Modeling Hierarchical Structure for Self-Attention with Ordered Neurons. [[paper]](https://arxiv.org/pdf/1909.01562.pdf){:target="_blank”} [[code]](https://github.com/Demon-JieHao/Modeling-Structure-for-Transformer-Network){:target="_blank”}
+Towards Better Modeling Hierarchical Structure for Self-Attention with Ordered Neurons. [[paper]](https://arxiv.org/pdf/1909.01562.pdf){:target="_blank”}[[code]](https://github.com/Demon-JieHao/Modeling-Structure-for-Transformer-Network){:target="_blank”}         
 **Jie Hao**, Xing Wang, Shuming Shi, Jinfeng Zhang, and Zhaopeng Tu.  
 In EMNLP, 2019.
 
