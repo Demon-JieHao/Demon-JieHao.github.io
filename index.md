@@ -30,12 +30,13 @@ RAST: Domain-Robust Dialogue Rewriting as Sequence Tagging. [[paper]](https://ac
 In EMNLP, 2021.
 
 Contextual Rephrase Detection for Reducing Friction in Dialogue Systems. [[paper]](https://assets.amazon.science/ab/b8/93fbdc014a5fbef79208f13904d6/contextual-rephrase-detection-for-reducing-friction-in-dialogue-systems.pdf){:target="_blank”}         
-Zhuoyi Wang\*, Saurabh Gupta\*, **Jie Hao\***, Xing Fan, Dingcheng Li, Alexander Hanbo Li, Edward Guo. (* Equal contribution)              
+Zhuoyi Wang\*, Saurabh Gupta\*, **Jie Hao\***, Xing Fan, Dingcheng Li, Alexander Hanbo Li, Edward Guo.  
+(* Equal contribution)              
 In EMNLP, 2021. (**Oral**)
 
 Personalized Search-based Query Rewrite System for Conversational AI. [[paper]](https://aclanthology.org/2021.nlp4convai-1.17.pdf){:target="_blank”}   
 Eunah Cho, Ziyan Jiang, **Jie Hao**, Zheng Chen, Saurabh Gupta, Xing Fan, Chenlei Guo.   
-In EMNLP NLP4ConvAI, 2021.
+In EMNLP NLP4ConvAI, 2021. (**Oral**)
 
 Triage of Documents containing protein interactions affected by mutations using a NLP based machine learning
 approach. [[paper]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07185-7){:target="_blank”}           
