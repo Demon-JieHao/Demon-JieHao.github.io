@@ -30,7 +30,7 @@ RAST: Domain-Robust Dialogue Rewriting as Sequence Tagging. [[paper]](https://ac
 In EMNLP, 2021.
 
 Contextual Rephrase Detection for Reducing Friction in Dialogue Systems. [[paper]](https://assets.amazon.science/ab/b8/93fbdc014a5fbef79208f13904d6/contextual-rephrase-detection-for-reducing-friction-in-dialogue-systems.pdf){:target="_blank”}         
-Zhuoyi Wang\*, Saurabh Gupta\*, **Jie Hao\***, Xing Fan, Dingcheng Li, Alexander Hanbo Li, Edward Guo.  
+Zhuoyi Wang\*, Saurabh Gupta\*, **Jie Hao\***, Xing Fan, Dingcheng Li, Alexander Hanbo Li, Chenlei Guo.  
 (* Equal contribution)              
 In EMNLP, 2021. (**Oral**)
 
