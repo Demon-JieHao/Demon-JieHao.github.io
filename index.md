@@ -25,6 +25,10 @@ Research Intern, *May. 2018 - Sep. 2019*
 
 ### Publications
 
+Overcoming Catastrophic Forgetting During Domain Adaptation of Seq2seq Language Generation. [[paper]](https://demon-jiehao.github.io/){:target="_blank”}   
+Dingcheng Li, Zheng Chen, Eunah Cho, **Jie Hao**, Xiaohu Liu, Xing Fan, Chenlei Guo, Yang Liu.      
+In NAACL, 2022.
+
 RAST: Domain-Robust Dialogue Rewriting as Sequence Tagging. [[paper]](https://aclanthology.org/2021.emnlp-main.402.pdf){:target="_blank”}[[code]](https://github.com/freesunshine0316/RaST-plus){:target="_blank”}   
 **Jie Hao**, Linfeng Song, Liwei Wang, Kun Xu, Zhaopeng Tu, Dong Yu.         
 In EMNLP, 2021.
@@ -66,7 +70,7 @@ In Proceedings of BioCreative VI workshop, 2017.
 
 ### Professional Service
 
-Program Committee Member: EMNLP (2020-2021), AACL 2020, COLING 2020, NLPCC 2020, CCL (2019-2020), EACL 2021, AAAI (2021-2022), NAACL 2021, ACL 2021, TASLP 2021, ACL Rolling Review (2021-).   
+Program Committee Member: EMNLP (2020-2021), AACL 2020, COLING 2020, NLPCC 2020, CCL (2019-2020), EACL 2021, AAAI (2021-2022), NAACL 2021, ACL 2021, TASLP 2021, ACL Rolling Review (2021-), KDD 2022, COLING 2022
 Secondary Reviewer: EMNLP (2018-2019), AAAI (2019-2020), NAACL 2019, ACL (2019-2020), IJCAI 2019 
 
 
