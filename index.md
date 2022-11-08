@@ -25,11 +25,11 @@ Research Intern, *May. 2018 - Sep. 2019*
 
 ### Publications
 
-1. CGF: Constrained Generation Framework for Query Rewriting in Conversational AI. [[paper]](https://demon-jiehao.github.io/){:target="_blank”}   
+1. CGF: Constrained Generation Framework for Query Rewriting in Conversational AI. [[paper]](https://www.amazon.science/publications/cgf-constrained-generation-framework-for-query-rewriting-in-conversational-ai){:target="_blank”}   
 **Jie Hao**, Yang Liu, Xing Fan, Saurabh Gupta, Saleh Soltan, Rakesh Chada, Pradeep Natarajan, Chenlei Guo and Gokhan Tur     
 In EMNLP Industry Track, 2022. (**Oral**)
 
-2. PAIGE: Personalized Adaptive Interactions Graph Encoder for Query Rewriting in Dialogue Systems. [[paper]](https://demon-jiehao.github.io/){:target="_blank”}   
+2. PAIGE: Personalized Adaptive Interactions Graph Encoder for Query Rewriting in Dialogue Systems. [[paper]](https://www.amazon.science/publications/paige-personalized-adaptive-interactions-graph-encoder-for-query-rewriting-in-dialogue-systems){:target="_blank”}   
 Daniel Bis, Saurabh Gupta, **Jie Hao**, Xing Fan, Chenlei Guo.      
 In EMNLP Industry Track, 2022.
 
