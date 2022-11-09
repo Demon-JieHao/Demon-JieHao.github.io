@@ -34,7 +34,7 @@ Daniel Bis, Saurabh Gupta, **Jie Hao**, Xing Fan, Chenlei Guo.
 In EMNLP Industry Track, 2022.
 
 3. PENTATRON: PErsonalized coNText-Aware Transformer for Retrieval-based cOnversational uNderstanding. [[paper]](https://demon-jiehao.github.io/){:target="_blank”}   
-Niranjan Uma Naresh, Ziyan Jiang, Ankit, Sungjin Lee, **Jie Hao**, Xing Fan, Edward Guo     
+Niranjan Uma Naresh, Ziyan Jiang, Ankit, Sungjin Lee, **Jie Hao**, Xing Fan, Chenlei Guo     
 In EMNLP Industry Track, 2022.
 
 4. Overcoming Catastrophic Forgetting During Domain Adaptation of Seq2seq Language Generation. [[paper]](https://aclanthology.org/2022.naacl-main.398.pdf){:target="_blank”}   
