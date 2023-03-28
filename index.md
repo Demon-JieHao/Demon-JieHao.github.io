@@ -5,7 +5,7 @@ Email: haoj8711@gmail.com
 Tel: 850-800-6566  
 
 ### About
-I’m Jie Hao, I am currently working as an applied scientist at Amazon, Alexa AI. I obtained the Ph.D. degree in Statistics at Florida State University (FSU). My research broadly lies around Natural Language Processing and Statistical Machine Learning. My current research focuses on Dialogue System and Machine Translation.
+I’m Jie Hao, I am currently working as a Senior Applied Scientist at Amazon, Alexa AI. I obtained the Ph.D. degree in Statistics at Florida State University (FSU). My research broadly lies around Natural Language Processing and Statistical Machine Learning. My current research focuses on Dialogue System and Machine Translation.
 
 ### Education
 
@@ -18,6 +18,15 @@ B.S. in Mathematics, *Sep. 2012-June. 2016*
 ### Experience
 
 **Amazon, Alexa AI**  
+Senior Applied Scientist, *Mar. 2023 - present
+
+**Amazon, Alexa AI**  
+Applied Scientist II, *Jan. 2021 - Mar. 2023*
+
+**Tencent AI Lab**  
+Research Intern, *Sep. 2020 - Dec. 2020*
+
+**Amazon, Alexa AI**  
 Applied Scientist Intern, *Jan. 2020 - July. 2020*
 
 **Tencent AI Lab**  
@@ -25,15 +34,15 @@ Research Intern, *May. 2018 - Sep. 2019*
 
 ### Publications
 
-1. CGF: Constrained Generation Framework for Query Rewriting in Conversational AI. [[paper]](https://www.amazon.science/publications/cgf-constrained-generation-framework-for-query-rewriting-in-conversational-ai){:target="_blank”}   
+1. CGF: Constrained Generation Framework for Query Rewriting in Conversational AI. [[paper]](https://aclanthology.org/2022.emnlp-industry.48.pdf){:target="_blank”}   
 **Jie Hao**, Yang Liu, Xing Fan, Saurabh Gupta, Saleh Soltan, Rakesh Chada, Pradeep Natarajan, Chenlei Guo and Gokhan Tur     
 In EMNLP Industry Track, 2022. (**Oral**)
 
-2. PAIGE: Personalized Adaptive Interactions Graph Encoder for Query Rewriting in Dialogue Systems. [[paper]](https://www.amazon.science/publications/paige-personalized-adaptive-interactions-graph-encoder-for-query-rewriting-in-dialogue-systems){:target="_blank”}   
+2. PAIGE: Personalized Adaptive Interactions Graph Encoder for Query Rewriting in Dialogue Systems. [[paper]](https://aclanthology.org/2022.emnlp-industry.40.pdf){:target="_blank”}   
 Daniel Bis, Saurabh Gupta, **Jie Hao**, Xing Fan, Chenlei Guo.      
 In EMNLP Industry Track, 2022.
 
-3. PENTATRON: PErsonalized coNText-Aware Transformer for Retrieval-based cOnversational uNderstanding. [[paper]](https://demon-jiehao.github.io/){:target="_blank”}   
+3. PENTATRON: PErsonalized coNText-Aware Transformer for Retrieval-based cOnversational uNderstanding. [[paper]](https://aclanthology.org/2022.emnlp-industry.7.pdf){:target="_blank”}   
 Niranjan Uma Naresh, Ziyan Jiang, Ankit, Sungjin Lee, **Jie Hao**, Xing Fan, Chenlei Guo     
 In EMNLP Industry Track, 2022.
 
@@ -82,7 +91,7 @@ In Proceedings of BioCreative VI workshop, 2017.
 
 ### Professional Service
 
-Program Committee Member: EMNLP (2020-2022), AACL (2020-2022), COLING (2020-2022), NLPCC 2020, CCL (2019-2020), EACL 2021, AAAI (2021-2023), NAACL 2021, ACL 2021, TASLP 2021, ACL Rolling Review (2021-), KDD 2022  
+Program Committee Member: EMNLP (2020-2022), AACL (2020-2022), COLING (2020-2022), NLPCC 2020, CCL (2019-2020), EACL 2021, AAAI (2021-2023), NAACL 2021, ACL 2021-2023, TASLP 2021, ACL Rolling Review (2021-), KDD 2022-2023  
 Secondary Reviewer: EMNLP (2018-2019), AAAI (2019-2020), NAACL 2019, ACL (2019-2020), IJCAI 2019 
 
 
