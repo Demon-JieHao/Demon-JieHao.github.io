@@ -18,9 +18,7 @@ B.S. in Mathematics, *Sep. 2012-June. 2016*
 ### Experience
 
 **Amazon, Alexa AI**  
-Senior Applied Scientist, *Mar. 2023 - present*
-
-**Amazon, Alexa AI**  
+Senior Applied Scientist, *Mar. 2023 - present*  
 Applied Scientist II, *Jan. 2021 - Mar. 2023*
 
 **Tencent AI Lab**  
