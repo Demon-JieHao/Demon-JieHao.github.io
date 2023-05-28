@@ -33,7 +33,7 @@ Research Intern, *May. 2018 - Sep. 2019*
 ### Publications
 
 1. Unified Contextual Query Rewriting. [to appear]   
-Yingxue Zhou, **Jie Hao**, Yang Liu, Eunah Cho, Xing Fan, Yanbin Lu, Vishal Vasudevan, Kellen Gillespie, Zeynab Raseey, Wei Shen, Chenlei Guo and Gokhan Tur     
+Yingxue Zhou, **Jie Hao**, Mukund Rungta, Yang Liu, Eunah Cho, Xing Fan, Yanbin Lu, Vishal Vasudevan, Kellen Gillespie, Zeynab Raseey, Wei Shen, Chenlei Guo and Gokhan Tur     
 In ACL Industry Track, 2023. 
 
 2. CGF: Constrained Generation Framework for Query Rewriting in Conversational AI. [[paper]](https://aclanthology.org/2022.emnlp-industry.48.pdf){:target="_blank”}   
