@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jie Hao</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #fff;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 60px 30px;
+        }
+
+        .header {
+            display: flex;
+            gap: 50px;
+            margin-bottom: 60px;
+            align-items: flex-start;
+        }
+
+        .profile-img {
+            flex-shrink: 0;
+        }
+
+        .profile-img img {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            object-fit: cover;
+            background-color: #e0e0e0;
+        }
+
+        .header-content {
+            flex: 1;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: #1a1a1a;
+        }
+
+        .title {
+            font-size: 1.1em;
+            color: #666;
+            margin-bottom: 5px;
+        }
+
+        .affiliation {
+            font-size: 1.1em;
+            color: #666;
+            margin-bottom: 15px;
+        }
+
+        .email {
+            color: #0066cc;
+            text-decoration: none;
+            font-size: 0.95em;
+        }
+
+        .email:hover {
+            text-decoration: underline;
+        }
+
+        .section {
+            margin-bottom: 50px;
+        }
+
+        h2 {
+            font-size: 1.5em;
+            font-weight: 600;
+            margin-bottom: 20px;
+            color: #1a1a1a;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 8px;
+        }
+
+        .about-text {
+            font-size: 1em;
+            line-height: 1.8;
+            color: #444;
+        }
+
+        .interests {
+            font-size: 1em;
+            color: #444;
+        }
+
+        .edu-item, .exp-item {
+            margin-bottom: 25px;
+        }
+
+        .edu-header, .exp-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 5px;
+        }
+
+        .institution {
+            font-weight: 600;
+            font-size: 1.05em;
+            color: #1a1a1a;
+        }
+
+        .location {
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        .degree, .position {
+            color: #444;
+            font-style: italic;
+            margin-left: 0;
+        }
+
+        .date {
+            color: #666;
+            font-size: 0.9em;
+            white-space: nowrap;
+        }
+
+        .publication {
+            margin-bottom: 20px;
+            line-height: 1.7;
+        }
+
+        .pub-title {
+            font-weight: 500;
+            color: #1a1a1a;
+        }
+
+        .pub-authors {
+            color: #555;
+            font-size: 0.95em;
+        }
+
+        .pub-venue {
+            color: #666;
+            font-size: 0.95em;
+            font-style: italic;
+        }
+
+        .pub-link {
+            color: #0066cc;
+            text-decoration: none;
+            font-size: 0.9em;
+        }
+
+        .pub-link:hover {
+            text-decoration: underline;
+        }
+
+        .oral {
+            color: #d9534f;
+            font-weight: 600;
+        }
+
+        .service-text {
+            line-height: 1.8;
+            color: #444;
+        }
+
+        .service-text strong {
+            color: #1a1a1a;
+        }
+
+        @media (max-width: 768px) {
+            .header {
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+                gap: 30px;
+            }
+
+            .profile-img img {
+                width: 150px;
+                height: 150px;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            .container {
+                padding: 40px 20px;
+            }
+
+            .edu-header, .exp-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .date {
+                margin-top: 5px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header Section -->
+        <div class="header">
+            <div class="profile-img">
+                <img src="https://via.placeholder.com/200/cccccc/666666?text=Your+Photo" alt="Jie Hao">
+            </div>
+            <div class="header-content">
+                <h1>Jie Hao</h1>
+                <div class="title">Senior Applied Scientist</div>
+                <div class="affiliation">Amazon, Alexa AI</div>
+                <a href="mailto:haoj8711@gmail.com" class="email">haoj8711@gmail.com</a>
+            </div>
+        </div>
+
+        <!-- About Section -->
+        <div class="section">
+            <h2>About Me</h2>
+            <p class="about-text">
+                I'm Jie Hao, I am currently working as a Senior Applied Scientist at Amazon, Alexa AI. I obtained the Ph.D. degree in Statistics at Florida State University (FSU). My research broadly lies around Natural Language Processing and Statistical Machine Learning. My current research focuses on Dialogue System and Machine Translation.
+            </p>
+        </div>
+
+        <!-- Research Interests -->
+        <div class="section">
+            <h2>Research Interests</h2>
+            <p class="interests">
+                <strong>Natural Language Processing</strong>, <strong>Dialogue Systems</strong>, <strong>Machine Translation</strong>, <strong>Statistical Machine Learning</strong>
+            </p>
+        </div>
+
+        <!-- Education Section -->
+        <div class="section">
+            <h2>Education</h2>
+            <div class="edu-item">
+                <div class="edu-header">
+                    <div>
+                        <div class="institution">Florida State University</div>
+                        <div class="location">Tallahassee, FL, USA</div>
+                    </div>
+                    <div class="date">Aug. 2016 - Dec. 2020</div>
+                </div>
+                <div class="degree">Ph.D. in Statistics</div>
+            </div>
+            <div class="edu-item">
+                <div class="edu-header">
+                    <div>
+                        <div class="institution">Fudan University</div>
+                        <div class="location">Shanghai, China</div>
+                    </div>
+                    <div class="date">Sep. 2012 - June 2016</div>
+                </div>
+                <div class="degree">B.S. in Mathematics</div>
+            </div>
+        </div>
+
+        <!-- Experience Section -->
+        <div class="section">
+            <h2>Experience</h2>
+            <div class="exp-item">
+                <div class="exp-header">
+                    <div>
+                        <div class="institution">Amazon, Alexa AI</div>
+                    </div>
+                    <div class="date">Mar. 2023 - present</div>
+                </div>
+                <div class="position">Senior Applied Scientist</div>
+            </div>
+            <div class="exp-item">
+                <div class="exp-header">
+                    <div>
+                        <div class="institution">Amazon, Alexa AI</div>
+                    </div>
+                    <div class="date">Jan. 2021 - Mar. 2023</div>
+                </div>
+                <div class="position">Applied Scientist II</div>
+            </div>
+            <div class="exp-item">
+                <div class="exp-header">
+                    <div>
+                        <div class="institution">Tencent AI Lab</div>
+                    </div>
+                    <div class="date">Sep. 2020 - Dec. 2020</div>
+                </div>
+                <div class="position">Research Intern</div>
+            </div>
+            <div class="exp-item">
+                <div class="exp-header">
+                    <div>
+                        <div class="institution">Amazon, Alexa AI</div>
+                    </div>
+                    <div class="date">Jan. 2020 - July 2020</div>
+                </div>
+                <div class="position">Applied Scientist Intern</div>
+            </div>
+            <div class="exp-item">
+                <div class="exp-header">
+                    <div>
+                        <div class="institution">Tencent AI Lab</div>
+                    </div>
+                    <div class="date">May 2018 - Sep. 2019</div>
+                </div>
+                <div class="position">Research Intern</div>
+            </div>
+        </div>
+
+        <!-- Publications Section -->
+        <div class="section">
+            <h2>Selected Publications</h2>
+            
+            <div class="publication">
+                <div class="pub-title">1. Unified Contextual Query Rewriting</div>
+                <div class="pub-authors">Yingxue Zhou, <strong>Jie Hao</strong>, Mukund Rungta, Yang Liu, Eunah Cho, Xing Fan, Yanbin Lu, Vishal Vasudevan, Kellen Gillespie, Zeynab Raseey, Wei Shen, Chenlei Guo and Gokhan Tur</div>
+                <div class="pub-venue">ACL Industry Track, 2023</div>
+            </div>
+
+            <div class="publication">
+                <div class="pub-title">2. CGF: Constrained Generation Framework for Query Rewriting in Conversational AI <a href="https://aclanthology.org/2022.emnlp-industry.48.pdf" class="pub-link">[paper]</a></div>
+                <div class="pub-authors"><strong>Jie Hao</strong>, Yang Liu, Xing Fan, Saurabh Gupta, Saleh Soltan, Rakesh Chada, Pradeep Natarajan, Chenlei Guo and Gokhan Tur</div>
+                <div class="pub-venue">EMNLP Industry Track, 2022 <span class="oral">(Oral)</span></div>
+            </div>
+
+            <div class="publication">
+                <div class="pub-title">3. PAIGE: Personalized Adaptive Interactions Graph Encoder for Query Rewriting in Dialogue Systems <a href="https://aclanthology.org/2022.emnlp-industry.40.pdf" class="pub-link">[paper]</a></div>
+                <div class="pub-authors">Daniel Bis, Saurabh Gupta, <strong>Jie Hao</strong>, Xing Fan, Chenlei Guo</div>
+                <div class="pub-venue">EMNLP Industry Track, 2022</div>
+            </div>
+
+            <div class="publication">
+                <div class="pub-title">4. PENTATRON: PErsonalized coNText-Aware Transformer for Retrieval-based cOnversational uNderstanding <a href="https://aclanthology.org/2022.emnlp-industry.7.pdf" class="pub-link">[paper]</a></div>
+                <div class="pub-authors">Niranjan Uma Naresh, Ziyan Jiang, Ankit, Sungjin Lee, <strong>Jie Hao</strong>, Xing Fan, Chenlei Guo</div>
+                <div class="pub-venue">EMNLP Industry Track, 2022</div>
+            </div>
+
+            <div class="publication">
+                <div class="pub-title">5. Overcoming Catastrophic Forgetting During Domain Adaptation of Seq2seq Language Generation <a href="https://aclanthology.org/2022.naacl-main.398.pdf" class="pub-link">[paper]</a></div>
+                <div class="pub-authors">Dingcheng Li, Zheng Chen, Eunah Cho, <strong>Jie Hao</strong>, Xiaohu Liu, Xing Fan, Chenlei Guo, Yang Liu</div>
+                <div class="pub-venue">NAACL, 2022</div>
+            </div>
+
+            <div class="publication">
+                <div class="pub-title">6. RAST: Domain-Robust Dialogue Rewriting as Sequence Tagging <a href="https://aclanthology.org/2021.emnlp-main.402.pdf" class="pub-link">[paper]</a> <a href="https://github.com/freesunshine0316/RaST-plus" class="pub-link">[code]</a></div>
+                <div class="pub-authors"><strong>Jie Hao</strong>, Linfeng Song, Liwei Wang, Kun Xu, Zhaopeng Tu, Dong Yu</div>
+                <div class="pub-venue">EMNLP, 2021</div>
+            </div>
+
+            <div class="publication">
+                <div class="pub-title">7. Contextual Rephrase Detection for Reducing Friction in Dialogue Systems <a href="https://assets.amazon.science/ab/b8/93fbdc014a5fbef79208f13904d6/contextual-rephrase-detection-for-reducing-friction-in-dialogue-systems.pdf" class="pub-link">[paper]</a></div>
+                <div class="pub-authors">Zhuoyi Wang*, Saurabh Gupta*, <strong>Jie Hao*</strong>, Xing Fan, Dingcheng Li, Alexander Hanbo Li, Chenlei Guo (* Equal contribution)</div>
+                <div class="pub-venue">EMNLP, 2021 <span class="oral">(Oral)</span></div>
+            </div>
+
+            <div class="publication">
+                <div class="pub-title">8. Personalized Search-based Query Rewrite System for Conversational AI <a href="https://aclanthology.org/2021.nlp4convai-1.17.pdf" class="pub-link">[paper]</a></div>
+                <div class="pub-authors">Eunah Cho, Ziyan Jiang, <strong>Jie Hao</strong>, Zheng Chen, Saurabh Gupta, Xing Fan, Chenlei Guo</div>
+                <div class="pub-venue">EMNLP NLP4ConvAI, 2021 <span class="oral">(Oral)</span></div>
+            </div>
+
+            <div class="publication">
+                <div class="pub-title">9. Multi-Granularity Self-Attention for Neural Machine Translation <a href="https://arxiv.org/pdf/1909.02222.pdf" class="pub-link">[paper]</a></div>
+                <div class="pub-authors"><strong>Jie Hao</strong>, Xing Wang, Shuming Shi, Jinfeng Zhang, and Zhaopeng Tu</div>
+                <div class="pub-venue">EMNLP, 2019</div>
+            </div>
+
+            <div class="publication">
+                <div class="pub-title">10. Towards Better Modeling Hierarchical Structure for Self-Attention with Ordered Neurons <a href="https://arxiv.org/pdf/1909.01562.pdf" class="pub-link">[paper]</a> <a href="https://github.com/Demon-JieHao/Modeling-Structure-for-Transformer-Network" class="pub-link">[code]</a></div>
+                <div class="pub-authors"><strong>Jie Hao</strong>, Xing Wang, Shuming Shi, Jinfeng Zhang, and Zhaopeng Tu</div>
+                <div class="pub-venue">EMNLP, 2019</div>
+            </div>
+
+            <div class="publication">
+                <div class="pub-title">11. Modeling Recurrence for Transformer <a href="https://arxiv.org/pdf/1904.03092.pdf" class="pub-link">[paper]</a></div>
+                <div class="pub-authors"><strong>Jie Hao</strong>, Xing Wang, Baosong Yang, Longyue Wang, Jinfeng Zhang, and Zhaopeng Tu</div>
+                <div class="pub-venue">NAACL, 2019 <span class="oral">(Oral)</span></div>
+            </div>
+        </div>
+
+        <!-- Professional Service Section -->
+        <div class="section">
+            <h2>Professional Service</h2>
+            <p class="service-text">
+                <strong>Program Committee Member:</strong> EMNLP (2020-2022), AACL (2020-2022), COLING (2020-2022), NLPCC 2020, CCL (2019-2020), EACL 2021, AAAI (2021-2023), NAACL 2021, ACL 2021-2023, TASLP 2021, ACL Rolling Review (2021-), KDD 2022-2023
+            </p>
+            <p class="service-text">
+                <strong>Secondary Reviewer:</strong> EMNLP (2018-2019), AAAI (2019-2020), NAACL 2019, ACL (2019-2020), IJCAI 2019
+            </p>
+        </div>
+    </div>
+</body>
+</html>
